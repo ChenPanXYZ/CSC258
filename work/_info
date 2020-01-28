@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/csc258
+vpart1
+!s110 1565637205
+!i10b 1
+!s100 2TIG?[L6F=T=Oe9GI=jTl1
+IM:Gk4VB<8]U64n5jC[L:R3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1565637203
+8part1.v
+Fpart1.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1565637205.000000
+!s107 part1.v|
+!s90 -reportprogress|300|-timescale|1ns/1ns|part1.v|
+!i113 1
+o-timescale 1ns/1ns
+tCvgOpt 0

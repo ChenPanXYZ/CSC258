@@ -1,0 +1,56 @@
+//SW[2:0] data inputs
+//SW[9] select signal
+
+//LEDR[0] output display
+module adder(LEDR, SW);
+    input [8:0] SW;
+    output [4:0] LEDR;
+
+    wire c1;
+    wire c2;
+	wire c3;
+	
+    full_adder fa1(
+        .ci(SW[0]),
+        .a(SW[1]),
+        .b(SW[2]),
+		.s(LEDR[0]),
+        .m(c1)
+        );
+		
+    full_adder fa2(
+        .ci(c1),
+        .a(SW[3]),
+        .b(SW[4]),
+		.s(LEDR[1]),
+        .m(c2)
+        );
+		
+    full_adder fa3(
+        .ci(c2),
+        .a(SW[5]),
+        .b(SW[6]),
+		.s(LEDR[2]),
+        .m(c3)
+        );
+		
+    full_adder fa4(
+        .ci(c3),
+        .a(SW[7]),
+        .b(SW[8]),
+		.s(LEDR[3]),
+        .m(LEDR[4])
+        );
+endmodule
+
+module full_adder(x, y, s, m);
+    input ci; //selected when s is 0
+    input a; //selected when s is 1
+    input b; //select signal
+    output c0; //output
+	output s;
+	
+	assign s = a ^ b ^ ci;
+	assign c0 = (a & b) | (ci & (a^b));
+
+endmodule

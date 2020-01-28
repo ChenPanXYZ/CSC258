@@ -1,0 +1,388 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/csc258/prelab-2
+vfive
+Z1 !s110 1558818180
+!i10b 1
+!s100 h`kg6i>L52>O0hDzV>fHh2
+Iik<R>QHP>:XX4l0zc`08]0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1558818174
+Z4 87-segment-decoder.v
+Z5 F7-segment-decoder.v
+L0 106
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1558818180.000000
+Z8 !s107 7-segment-decoder.v|
+Z9 !s90 -reportprogress|300|-timescale|1ns/1ns|7-segment-decoder.v|
+!i113 1
+Z10 o-timescale 1ns/1ns
+Z11 tCvgOpt 0
+vfour
+R1
+!i10b 1
+!s100 9cM;=`0^ghS12PWUWHRK[3
+I_Z5<4[5L46XOQFHXccV0K1
+R2
+R0
+R3
+R4
+R5
+L0 96
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vhex0
+Z12 !s110 1559514971
+!i10b 1
+!s100 kFB3YF0hkGbzhYA]SFfFn2
+IGQDiS8UPi`hEI3>a2zKD_1
+R2
+R0
+Z13 w1559514622
+Z14 8seven_segment_decoder.v
+Z15 Fseven_segment_decoder.v
+L0 57
+R6
+r1
+!s85 0
+31
+Z16 !s108 1559514971.000000
+Z17 !s107 seven_segment_decoder.v|
+Z18 !s90 -reportprogress|300|-timescale|1ns/1ns|seven_segment_decoder.v|
+!i113 1
+R10
+R11
+vhex1
+R12
+!i10b 1
+!s100 eT[XLgVNkSFZlmf9k@SZb3
+I7NzKY:3>D6ZOLM[n_OELI3
+R2
+R0
+R13
+R14
+R15
+L0 69
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+vhex2
+R12
+!i10b 1
+!s100 KG95h_3l17@>:0P99GeF@2
+ITX<Ahb11<BZ?QjckeNlm?3
+R2
+R0
+R13
+R14
+R15
+L0 80
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+vhex3
+R12
+!i10b 1
+!s100 8Kfmh9_5T`hSmaVgn@kA53
+IaP`h_eC]TiFDWfl_S;V9E2
+R2
+R0
+R13
+R14
+R15
+L0 91
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+vhex4
+R12
+!i10b 1
+!s100 [GINSZTZeA44n:4J:FQ>M0
+IHai>V;D1MYNRL1hgV<6dK2
+R2
+R0
+R13
+R14
+R15
+L0 102
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+vhex5
+R12
+!i10b 1
+!s100 l?J>lUf`4WTHkUSjRLFdN1
+IO1J>^PCWN[ha9h?Zn]Pkg0
+R2
+R0
+R13
+R14
+R15
+L0 113
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+vhex6
+R12
+!i10b 1
+!s100 >f;HnEoeQO_B]NOBQ?o6h1
+ImFjT<SVdhlefUKmB`K;nV0
+R2
+R0
+R13
+R14
+R15
+L0 124
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+vhex_display
+R1
+!i10b 1
+!s100 AEP9P?>j=nS^@UmRzHk<71
+ITk4^?Z;M=ljV5IdgFEiFG2
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmux
+Z19 !s110 1558818071
+!i10b 1
+!s100 5oJ?ZOeoIKb7][JA9gj]U1
+I34gEcOlC]7]:WV<Q9`H^g2
+R2
+R0
+Z20 w1558816831
+Z21 8mux.v
+Z22 Fmux.v
+L0 5
+R6
+r1
+!s85 0
+31
+Z23 !s108 1558818071.000000
+Z24 !s107 mux.v|
+Z25 !s90 -reportprogress|300|-timescale|1ns/1ns|mux.v|
+!i113 1
+R10
+R11
+vmux2to1
+R19
+!i10b 1
+!s100 nGoYMEKfEDMQ0C4ZQn[QF0
+I_VDnmbo6nV`gF5l[JQO4L0
+R2
+R0
+R20
+R21
+R22
+L0 32
+R6
+r1
+!s85 0
+31
+R23
+R24
+R25
+!i113 1
+R10
+R11
+vone
+R1
+!i10b 1
+!s100 Q9gH;?^3bg=K9:oXl;UkE1
+I]R0KVoH46`:FVhLKNzH^l1
+R2
+R0
+R3
+R4
+R5
+L0 66
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vseven_segment_decoder
+R12
+!i10b 1
+!s100 7BGlDCGH7@>4NhCbVLOIn0
+IH`i<9Le:9^nFzz9Qzj1=:0
+R2
+R0
+R13
+R14
+R15
+L0 1
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+vsix
+R1
+!i10b 1
+!s100 VkkPEb[XZ<57Vf3?bc?ek0
+IVLlC_^C<eU?ToBGZI6[Q:3
+R2
+R0
+R3
+R4
+R5
+L0 116
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vthree
+R1
+!i10b 1
+!s100 ^`AjU@DeYm7]1Je2CW9AT1
+ID>W6]`NUoi71:44MgeWzn2
+R2
+R0
+R3
+R4
+R5
+L0 86
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtwo
+R1
+!i10b 1
+!s100 ;52hkJSb]64eWd0WcA@Xe2
+IHM>=DeeN66]LIkK`9H6hb1
+R2
+R0
+R3
+R4
+R5
+L0 76
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vzero
+R1
+!i10b 1
+!s100 KRS_`lCQ@2V2G2mKd;W0Z2
+IIP;?Q9zL2^>JA4>?mnOGX1
+R2
+R0
+R3
+R4
+R5
+L0 56
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

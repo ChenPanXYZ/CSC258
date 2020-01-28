@@ -1,0 +1,263 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/csc258/prelab-3
+vadder
+Z1 !s110 1559532918
+!i10b 1
+!s100 c`C_dj3Ihk>b8GKM7_<k93
+I^:5mYQ<6IPRiDAGM7JQ011
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1559532914
+Z4 8alu.v
+Z5 Falu.v
+L0 96
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1559532918.000000
+Z8 !s107 alu.v|
+Z9 !s90 -reportprogress|300|-timescale|1ns/1ns|alu.v|
+!i113 1
+Z10 o-timescale 1ns/1ns
+Z11 tCvgOpt 0
+vALU
+R1
+!i10b 1
+!s100 G?eBQKUz<Y6g9oZFG;Mm`3
+IgL76G6510kPCEb7HeYUCm1
+R2
+R0
+R3
+R4
+R5
+L0 26
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@a@l@u
+vfull_adder
+R1
+!i10b 1
+!s100 ZkC:gci5Q5Ih;Lf`]35bM2
+Iajl1<he>kFfXAU`>eKLB01
+R2
+R0
+R3
+R4
+R5
+L0 140
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vhex0
+R1
+!i10b 1
+!s100 XL]05cGY`RSTBfR01DQ^^1
+Ia08W_3UZYICR@jNlU@3gC1
+R2
+R0
+R3
+R4
+R5
+L0 209
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vhex1
+R1
+!i10b 1
+!s100 AP0:S=j3@P653YH:kN6Z^2
+I52=W8l4njJkWfPQLTf3a^1
+R2
+R0
+R3
+R4
+R5
+L0 221
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vhex2
+R1
+!i10b 1
+!s100 c59DO:;D0:A;3BVGF^Cbe3
+IHVHoZ2mAaKSV]RLWclaI;2
+R2
+R0
+R3
+R4
+R5
+L0 232
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vhex3
+R1
+!i10b 1
+!s100 Vfm>5ggKQ?FoOh7=?2?z80
+IL?M^1YX::FFc8Y;0J]1gm3
+R2
+R0
+R3
+R4
+R5
+L0 243
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vhex4
+R1
+!i10b 1
+!s100 heRYmQ<zfW7R:oQCY09oO0
+IYHK0c^4_?N;m^fllfB>Kb0
+R2
+R0
+R3
+R4
+R5
+L0 254
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vhex5
+R1
+!i10b 1
+!s100 G:b0oPAlcHzZ2Q<jz_0d40
+IQUJkRD_S26`2]F5f=Rh4V1
+R2
+R0
+R3
+R4
+R5
+L0 265
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vhex6
+R1
+!i10b 1
+!s100 ]E4:00gIkl>=oZk`W_;?]2
+IIOf<:KNAZjYLB;Aag74f03
+R2
+R0
+R3
+R4
+R5
+L0 276
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vseven_segment_decoder
+R1
+!i10b 1
+!s100 25cJnmAY:3hW;ITLh:_f_0
+IJ;T7hQ`0YIW[1m=_F9dPm0
+R2
+R0
+R3
+R4
+R5
+L0 154
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vwork
+R1
+!i10b 1
+!s100 jT1:6KYI1Q9;L221LUXId2
+I=bY:UJCL50MB3?o6:99?83
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

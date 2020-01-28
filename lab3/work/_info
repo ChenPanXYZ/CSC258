@@ -1,0 +1,263 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/csc258/prelab-3
+vadder
+Z1 !s110 1559527335
+!i10b 1
+!s100 FFcOK1T93YhAX0SCTOb6h1
+I0o6>Ni=nR2^9VPZI8Td6W3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dF:/csc258/prelab3
+Z4 w1559526775
+Z5 8alu.v
+Z6 Falu.v
+L0 78
+Z7 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z8 !s108 1559527335.000000
+Z9 !s107 alu.v|
+Z10 !s90 -reportprogress|300|-timescale|1ns/1ns|alu.v|
+!i113 1
+Z11 o-timescale 1ns/1ns
+Z12 tCvgOpt 0
+valu
+R1
+!i10b 1
+!s100 Th^Lmk13H6O]jbM2aSSRV1
+IjS`mn:<Xzd0Jz;W4dnCC]1
+R2
+R3
+R4
+R5
+R6
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vALU
+!s110 1559526755
+!i10b 1
+!s100 [JdGY;D;z_ekgK0_R>FY:0
+I99g305PS]@<Zn;8cACKn61
+R2
+R0
+w1559526750
+R5
+R6
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1559526755.000000
+R9
+R10
+!i113 1
+R11
+R12
+n@a@l@u
+vfull_adder
+R1
+!i10b 1
+!s100 kdhDbCSP1:LkYNJW22j0g0
+IQgQB>I2CdG3eCSb7fSz=z0
+R2
+R3
+R4
+R5
+R6
+L0 120
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vhex0
+R1
+!i10b 1
+!s100 04aO=emC<NkdUY760:Wol3
+I_PV[ElhfOmR^QW9?0NJgC0
+R2
+R3
+R4
+R5
+R6
+L0 188
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vhex1
+R1
+!i10b 1
+!s100 XkWBOfOdVe6>3P[m@z?E]2
+I@^lkb2OJ_`iYD=25_@eCB3
+R2
+R3
+R4
+R5
+R6
+L0 200
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vhex2
+R1
+!i10b 1
+!s100 >Xkh0j>Ui@j=Z`FX<LT9Z1
+IdUjP0G^mPVUYCM9]UAN0]1
+R2
+R3
+R4
+R5
+R6
+L0 211
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vhex3
+R1
+!i10b 1
+!s100 KNPC_5W:TYS[TdZ`dVA8`0
+Io;P_TneA;7JC^<554I@7I0
+R2
+R3
+R4
+R5
+R6
+L0 222
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vhex4
+R1
+!i10b 1
+!s100 ;olNTl`HE[6f^T5Nn2;RO0
+IeoCK_M=N7Vcd0@e<B>X9F1
+R2
+R3
+R4
+R5
+R6
+L0 233
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vhex5
+R1
+!i10b 1
+!s100 OKSIZCNPh_P6@8L:0l1kI2
+ImZIV@RKf4DGgNlZiUE3M<0
+R2
+R3
+R4
+R5
+R6
+L0 244
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vhex6
+R1
+!i10b 1
+!s100 [K]VBd_;LbOKaf?fPdZgf0
+IOlQcTGgR5n:U_UV;hb;732
+R2
+R3
+R4
+R5
+R6
+L0 255
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vseven_segment_decoder
+R1
+!i10b 1
+!s100 znBTE^zN]:Mj:Gg;L?;>60
+I>61B?<JCzjV]Ma`No^@U43
+R2
+R3
+R4
+R5
+R6
+L0 133
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
